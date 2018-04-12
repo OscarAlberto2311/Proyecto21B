@@ -5,6 +5,7 @@ function_prueva(a,b) {
 	b=2;
 	c = a+b;
 	out.print("Es:"+c);
+	
 }
 
 $>
